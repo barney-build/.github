@@ -1,7 +1,7 @@
 ## Barney Ecosystem
 
 This organisation houses the development of `barney` and associated projects.
-It is exclusively run by `TravellingEngineer`.
+It is exclusively run by [TravellingEngineer](https://github.com/TravellingEngineer)
 
 ## Areas of interest
 
