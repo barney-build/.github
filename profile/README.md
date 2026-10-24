@@ -9,3 +9,4 @@ It is exclusively run by [TravellingEngineer](https://github.com/TravellingEngin
  - [Discussions](https://github.com/orgs/barney-build/discussions)
  - [Barney](https://github.com/barney-build/barney) - Core Tooling
  - [bny-base](https://github.com/barney-build/bny-base) - Reference Platform
+ - [Pavee OS](https://github.com/barney-build/pavee-os) - My "respin"
