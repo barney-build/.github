@@ -27,8 +27,8 @@ A practical operating system project built with the Barney ecosystem. It provide
 
 ## Explore
 
-- [Project website](https://barney-build.github.io/)
-- [Development roadmap](https://barney-build.github.io/roadmap/)
+- [Project website](https://barney.build/)
+- [Development roadmap](https://barney.build/roadmap/)
 - [GitHub Discussions](https://github.com/orgs/barney-build/discussions)
 - [All repositories](https://github.com/orgs/barney-build/repositories)
 - [TravellingEngineer](https://travellingengineer.com/blog/)
